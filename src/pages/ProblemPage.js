@@ -23,6 +23,8 @@ function ProblemPage() {
     }
   };
 
+  // added comment
+
   return (
     <div className="flex justify-center items-center min-h-screen bg-gray-100">
       <div className="bg-white border-2 border-blue-600 rounded-lg shadow-lg p-6 w-96 text-center">
